@@ -1,2 +1,4 @@
 project:
+  type: website
+  output-dir: docs
   title: "ADHD in Adults"

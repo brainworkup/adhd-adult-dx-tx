@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html#the-diagnostic-challenge",
+    "href": "index.html#the-diagnostic-challenge",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "The Diagnostic Challenge",
+    "text": "The Diagnostic Challenge\nNo “gold standard” exists for adult ADHD diagnosis\n\nAdult ADHD affects 5-7% of adults, yet diagnosis remains complex\nHyperactivity symptoms often diminish with age, making detection harder\nSubstantial symptom overlap with depression, anxiety, and bipolar disorder\nMost diagnoses made in primary care, not by specialists\nGrowing concern about stimulant-seeking for cognitive enhancement\n\nClinical Reality: We lack a definitive test and must rely on imperfect tools with widely variable performance characteristics.\n\nThis slide sets the stage by highlighting why adult ADHD diagnosis is so challenging. The absence of a gold standard means we’re working with uncertainty from the start."
+  },
+  {
+    "objectID": "index.html#self-report-questionnaires",
+    "href": "index.html#self-report-questionnaires",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Self-Report Questionnaires",
+    "text": "Self-Report Questionnaires\nPerformance across 44 studies:\n\nSensitivity: 14% to 100% (highly variable)\nSpecificity: 10% to 99% (highly variable)\nAdministration time: &lt;30 minutes\nFalse negative rates: 12-90%\n\nClinical Takeaway: Self-report scales (CAARS, ASRS, WURS) are quick screening tools but performance depends heavily on:\n\nCutoff thresholds used\nComparison population (healthy vs. clinical)\nPresence of comorbidities\n\nUse as initial screening, but never as sole diagnostic tool\n\nSelf-reports are the workhorses of ADHD assessment but their extreme variability means we need to understand their limitations. They excel at either sensitivity OR specificity, rarely both."
+  },
+  {
+    "objectID": "index.html#neuropsychological-testing",
+    "href": "index.html#neuropsychological-testing",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Neuropsychological Testing",
+    "text": "Neuropsychological Testing\nContinuous Performance Tests (CPTs) and cognitive batteries:\n\nSensitivity: 17-93% (mostly fair to poor)\nSpecificity: 40-100%\nAdministration time: ~20 minutes (CPTs)\n\nClinical Recommendation: Reserve neuropsychological testing for specific cognitive profiling needs\n\nThis is a key finding that challenges common practice. Despite their objectivity and cost, neuropsychological tests don’t outperform simple questionnaires."
+  },
+  {
+    "objectID": "index.html#combination-diagnostic-approaches",
+    "href": "index.html#combination-diagnostic-approaches",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Combination Diagnostic Approaches",
+    "text": "Combination Diagnostic Approaches\nMulti-modal assessment outperforms single tools:\n\nSensitivity: 43-94% (mostly good)\nSpecificity: 82-94% (acceptable)\nFalse positive rates: 16-18% (moderate)\n\nEffective combinations include:\n\nSelf-report + informant ratings\nSelf-report + clinical interview\nMultiple self-report scales + demographic variables\n\nClinical Application: Always combine multiple information sources - never rely on a single assessment method\n\nThe evidence strongly supports using multiple assessment methods together rather than any single tool in isolation."
+  },
+  {
+    "objectID": "index.html#medications",
+    "href": "index.html#medications",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Medications",
+    "text": "Medications\nFDA-approved stimulants and non-stimulants (87 studies):\nBenefits:\n\nADHD symptoms: Medium effect (SMD -0.64, High SoE)\nFunctional impairment: Small benefit (SMD -0.46, Moderate SoE)\nCognitive performance: Small benefit (SMD 0.25, Moderate SoE)\n\nRisks:\n\nInsomnia: 2.7× higher risk (Moderate SoE)\nAny adverse event: 33% increased risk\nBlood pressure: Small increase (SMD 0.16)\n\nNo difference between stimulants and non-stimulants in efficacy\n\nMedications remain the most studied intervention with strongest evidence. The benefits are clear but so are the risks, particularly for sleep."
+  },
+  {
+    "objectID": "index.html#psychosocial-interventions",
+    "href": "index.html#psychosocial-interventions",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Psychosocial Interventions",
+    "text": "Psychosocial Interventions\nCBT, DBT, and mindfulness-based therapies (39 studies):\nStrong benefits:\n\nADHD symptoms: Large effect (SMD -0.79, Moderate SoE)\nFunctional impairment: Medium effect (SMD -0.69, Moderate SoE)\n\nKey components of effective programs:\n\nPsychoeducation about ADHD\nExecutive function training\nProblem-solving skills\nMindfulness practices\nHomework and skill practice\n\nClinical Insight: Psychosocial interventions rival medications for symptom reduction without the adverse effects\n\nThis is perhaps the most surprising finding - psychosocial interventions show large effect sizes comparable to or exceeding medications."
+  },
+  {
+    "objectID": "index.html#combined-treatment-modest-additional-benefit",
+    "href": "index.html#combined-treatment-modest-additional-benefit",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Combined Treatment: Modest Additional Benefit",
+    "text": "Combined Treatment: Modest Additional Benefit\nMedication + Psychosocial therapy (14 studies):\n\nADHD symptoms: Small additional benefit (SMD -0.38, Moderate SoE)\nNot clearly superior to either treatment alone\nMost studies compared combination vs. monotherapy, not placebo\n\nClinical Implication:\n\nStart with either medication OR psychosocial intervention based on patient preference\nAdd second modality if response insufficient\nDon’t assume combination is automatically better\n\n\nContrary to common assumption, combining treatments doesn’t produce dramatic synergy - the additional benefit is modest."
+  },
+  {
+    "objectID": "index.html#emerging-treatments-limited-evidence",
+    "href": "index.html#emerging-treatments-limited-evidence",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Emerging Treatments: Limited Evidence",
+    "text": "Emerging Treatments: Limited Evidence\nInsufficient evidence for routine use:\nNeurostimulation (6 studies):\n\nImproves cognitive performance (SMD 0.55)\nNo effect on ADHD symptoms\n\nNeurofeedback (5 studies):\n\nInconsistent results, evidence insufficient\n\nCognitive training (6 studies):\n\nSmall cognitive benefit (SMD 0.31)\nNo effect on ADHD symptoms\n\n\nDespite theoretical promise, these newer interventions lack sufficient evidence for clinical recommendation."
+  },
+  {
+    "objectID": "index.html#context-matters-real-world-performance",
+    "href": "index.html#context-matters-real-world-performance",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "Context Matters: Real-World Performance",
+    "text": "Context Matters: Real-World Performance\nDiagnostic accuracy drops dramatically in clinical populations:\n\nTools distinguish ADHD from healthy controls well\nPerformance plummets when distinguishing ADHD from other psychiatric conditions\nComorbidity (present in majority) significantly affects specificity\n\nTreatment response moderators show limited effects:\n\nAge: Minimal impact on treatment response\nSex: No consistent differences\nADHD subtype: Similar responses across types\nComorbidities: May affect response but findings mixed\n\nKey Message: Our patients rarely present as “pure ADHD” - expect diagnostic uncertainty and treatment complexity\n\nThis reflects the messy reality of clinical practice - our patients have multiple conditions that complicate both diagnosis and treatment."
+  },
+  {
+    "objectID": "index.html#for-diagnosis",
+    "href": "index.html#for-diagnosis",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "For Diagnosis:",
+    "text": "For Diagnosis:\n\nStart with validated self-report screening (ASRS, CAARS)\nAlways obtain collateral information\nConduct thorough clinical interview for childhood onset\nScreen for common comorbidities (depression, anxiety, SUD)\nRequest neuropsychological testing for cases of higher complexity and broader profiling"
+  },
+  {
+    "objectID": "index.html#for-treatment",
+    "href": "index.html#for-treatment",
+    "title": "Adult ADHD: Evidence-Based Diagnosis and Treatment",
+    "section": "For Treatment:",
+    "text": "For Treatment:\n\nDiscuss medication vs. psychosocial therapy as first-line options\nConsider patient preference and adverse effect tolerance\nMonitor sleep carefully with stimulants\nDon’t assume combination therapy is needed initially\nAddress comorbidities concurrently\n\nRemember: Most evidence is LOW to MODERATE strength - individualized care remains essential\n\nThese practical recommendations synthesize the evidence into actionable clinical guidance while acknowledging the limitations of our knowledge base."
+  }
+]
