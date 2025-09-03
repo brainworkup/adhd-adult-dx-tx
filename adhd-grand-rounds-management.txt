@@ -1,0 +1,224 @@
+---
+title: "Adult ADHD: Evidence-Based Diagnosis and Treatment"
+subtitle: "Key Findings from Two Systematic Reviews"
+author: "Grand Rounds Presentation"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    preview-links: auto
+    footer: "Systematic Reviews: 112 Diagnostic Studies | 211 Treatment Studies"
+---
+
+## The Diagnostic Challenge {.smaller}
+
+**No "gold standard" exists for adult ADHD diagnosis**
+
+- Adult ADHD affects 5-7% of adults, yet diagnosis remains complex
+- Hyperactivity symptoms often diminish with age, making detection harder
+- Substantial symptom overlap with depression, anxiety, and bipolar disorder
+- Most diagnoses made in primary care, not by specialists
+- Growing concern about stimulant-seeking for cognitive enhancement
+
+**Clinical Reality:** We lack a definitive test and must rely on imperfect tools with widely variable performance characteristics.
+
+::: notes
+This slide sets the stage by highlighting why adult ADHD diagnosis is so challenging. The absence of a gold standard means we're working with uncertainty from the start.
+:::
+
+---
+
+## Self-Report Questionnaires: Variable but Practical {.smaller}
+
+**Performance across 44 studies:**
+
+- **Sensitivity:** 14% to 100% (highly variable)
+- **Specificity:** 10% to 99% (highly variable)
+- **Administration time:** <30 minutes
+- **False negative rates:** 12-90%
+
+**Clinical Takeaway:** Self-report scales (CAARS, ASRS, WURS) are quick screening tools but performance depends heavily on:
+- Cutoff thresholds used
+- Comparison population (healthy vs. clinical)
+- Presence of comorbidities
+
+**Use as initial screening, but never as sole diagnostic tool**
+
+::: notes
+Self-reports are the workhorses of ADHD assessment but their extreme variability means we need to understand their limitations. They excel at either sensitivity OR specificity, rarely both.
+:::
+
+---
+
+## Neuropsychological Testing: Not Worth the Investment {.smaller}
+
+**Continuous Performance Tests (CPTs) and cognitive batteries:**
+
+- **Sensitivity:** 17-93% (mostly fair to poor)
+- **Specificity:** 40-100%
+- **Administration time:** ~20 minutes
+- **Cost:** Significantly higher than self-reports
+
+**Critical Finding:** Neuropsychological tests perform **no better** than self-report questionnaires despite being more expensive and time-intensive
+
+**Clinical Recommendation:** Do not routinely use neuropsychological testing for ADHD diagnosis - reserve for specific cognitive profiling needs
+
+::: notes
+This is a key finding that challenges common practice. Despite their objectivity and cost, neuropsychological tests don't outperform simple questionnaires.
+:::
+
+---
+
+## Combination Diagnostic Approaches Work Best {.smaller}
+
+**Multi-modal assessment outperforms single tools:**
+
+- **Sensitivity:** 43-94% (mostly good)
+- **Specificity:** 82-94% (acceptable)
+- **False positive rates:** 16-18% (moderate)
+
+**Effective combinations include:**
+- Self-report + informant ratings
+- Self-report + clinical interview
+- Multiple self-report scales + demographic variables
+
+**Clinical Application:** Always combine multiple information sources - never rely on a single assessment method
+
+::: notes
+The evidence strongly supports using multiple assessment methods together rather than any single tool in isolation.
+:::
+
+---
+
+## Medications: Effective but with Trade-offs {.smaller}
+
+**FDA-approved stimulants and non-stimulants (87 studies):**
+
+**Benefits:**
+- **ADHD symptoms:** Medium effect (SMD -0.64, High SoE)
+- **Functional impairment:** Small benefit (SMD -0.46, Moderate SoE)
+- **Cognitive performance:** Small benefit (SMD 0.25, Moderate SoE)
+
+**Risks:**
+- **Insomnia:** 2.7× higher risk (Moderate SoE)
+- **Any adverse event:** 33% increased risk
+- **Blood pressure:** Small increase (SMD 0.16)
+
+**No difference between stimulants and non-stimulants in efficacy**
+
+::: notes
+Medications remain the most studied intervention with strongest evidence. The benefits are clear but so are the risks, particularly for sleep.
+:::
+
+---
+
+## Psychosocial Interventions: Surprisingly Effective {.smaller}
+
+**CBT, DBT, and mindfulness-based therapies (39 studies):**
+
+**Strong benefits:**
+- **ADHD symptoms:** Large effect (SMD -0.79, Moderate SoE)
+- **Functional impairment:** Medium effect (SMD -0.69, Moderate SoE)
+
+**Key components of effective programs:**
+- Psychoeducation about ADHD
+- Executive function training
+- Problem-solving skills
+- Mindfulness practices
+- Homework and skill practice
+
+**Clinical Insight:** Psychosocial interventions rival medications for symptom reduction without the adverse effects
+
+::: notes
+This is perhaps the most surprising finding - psychosocial interventions show large effect sizes comparable to or exceeding medications.
+:::
+
+---
+
+## Combined Treatment: Modest Additional Benefit {.smaller}
+
+**Medication + Psychosocial therapy (14 studies):**
+
+- **ADHD symptoms:** Small additional benefit (SMD -0.38, Moderate SoE)
+- **Not clearly superior** to either treatment alone
+- Most studies compared combination vs. monotherapy, not placebo
+
+**Clinical Implication:** 
+- Start with either medication OR psychosocial intervention based on patient preference
+- Add second modality if response insufficient
+- Don't assume combination is automatically better
+
+::: notes
+Contrary to common assumption, combining treatments doesn't produce dramatic synergy - the additional benefit is modest.
+:::
+
+---
+
+## Emerging Treatments: Limited Evidence {.smaller}
+
+**Insufficient evidence for routine use:**
+
+**Neurostimulation (6 studies):**
+- Improves cognitive performance (SMD 0.55) 
+- No effect on ADHD symptoms
+
+**Neurofeedback (5 studies):**
+- Inconsistent results, evidence insufficient
+
+**Cognitive training (6 studies):**
+- Small cognitive benefit (SMD 0.31)
+- No effect on ADHD symptoms
+
+**Supplements, exercise, CAM:**
+- Very limited studies
+- No consistent benefits demonstrated
+
+::: notes
+Despite theoretical promise, these newer interventions lack sufficient evidence for clinical recommendation.
+:::
+
+---
+
+## Context Matters: Real-World Performance {.smaller}
+
+**Diagnostic accuracy drops dramatically in clinical populations:**
+
+- Tools distinguish ADHD from **healthy controls** well
+- Performance plummets when distinguishing ADHD from **other psychiatric conditions**
+- Comorbidity (present in majority) significantly affects specificity
+
+**Treatment response moderators show limited effects:**
+- **Age:** Minimal impact on treatment response
+- **Sex:** No consistent differences
+- **ADHD subtype:** Similar responses across types
+- **Comorbidities:** May affect response but findings mixed
+
+**Key Message:** Our patients rarely present as "pure ADHD" - expect diagnostic uncertainty and treatment complexity
+
+::: notes
+This reflects the messy reality of clinical practice - our patients have multiple conditions that complicate both diagnosis and treatment.
+:::
+
+---
+
+## Clinical Practice Recommendations {.smaller}
+
+**For Diagnosis:**
+1. Start with validated self-report screening (ASRS, CAARS)
+2. Always obtain collateral information
+3. Conduct thorough clinical interview for childhood onset
+4. Screen for common comorbidities (depression, anxiety, SUD)
+5. Skip routine neuropsychological testing
+
+**For Treatment:**
+1. Discuss medication vs. psychosocial therapy as first-line options
+2. Consider patient preference and adverse effect tolerance
+3. Monitor sleep carefully with stimulants
+4. Don't assume combination therapy is needed initially
+5. Address comorbidities concurrently
+
+**Remember:** Most evidence is LOW to MODERATE strength - individualized care remains essential
+
+::: notes
+These practical recommendations synthesize the evidence into actionable clinical guidance while acknowledging the limitations of our knowledge base.
+:::
