@@ -4,11 +4,11 @@ project:
   title: "ADHD in Adults"
 
 website:
-  title: "Neuropsychological Testing for Psychiatrists"
+  title: "ADHD in Adults"
   navbar:
     left:
       - href: index.qmd
-        text: Neuropsychological Testing for Psychiatrists
+        text: ADHD in Adults
 
 execute:
   echo: false

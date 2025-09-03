@@ -11,7 +11,7 @@ format:
     preview-links: auto
     chalkboard: true
     scrollable: true
-    logo: ""
+    logo: logo.jpg
     footer: "Systematic Reviews: 112 Diagnostic Studies | 211 Treatment Studies"
     menu:
       side: right
