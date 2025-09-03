@@ -2,3 +2,17 @@ project:
   type: website
   output-dir: docs
   title: "ADHD in Adults"
+
+website:
+  title: "Neuropsychological Testing for Psychiatrists"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Neuropsychological Testing for Psychiatrists
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  cache: false
+  freeze: auto
