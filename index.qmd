@@ -225,8 +225,6 @@ Despite theoretical promise, these newer interventions lack sufficient evidence 
 This reflects the messy reality of clinical practice - our patients have multiple conditions that complicate both diagnosis and treatment.
 :::
 
----
-
 # Clinical Practice Recommendations {.smaller}
 
 ## **For Diagnosis:**
